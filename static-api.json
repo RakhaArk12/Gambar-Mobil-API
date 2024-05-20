@@ -1,12 +1,17 @@
 [
-    {"nama": "1. Temmu", "deskripsi": "Nemenin tidur", "imageId": "kucing1"},
-    {"nama": "2. Kucing Yana", "deskripsi": "Ngelamun", "imageId": "kucing2"},
-    {"nama": "3. Bandot", "deskripsi": "Lagi ngeliatin", "imageId": "kucing3"},
-    {"nama": "4. Jerry", "deskripsi": "Muka serius", "imageId": "kucing4"},
-    {"nama": "5. Kucing Rumah", "deskripsi": "Malu liat kamera", "imageId": "kucing5"},
-    {"nama": "6. Chiwy", "deskripsi": "Paling cakep", "imageId": "kucing6"},
-    {"nama": "7. Kucing Malu", "deskripsi": "Lagi tidur siang", "imageId": "kucing7"},
-    {"nama": "8. Milly", "deskripsi": "Senyum terus", "imageId": "kucing8"},
-    {"nama": "9. Chiko", "deskripsi": "Suka rebahan", "imageId": "kucing9"},
-    {"nama": "10. Timmy", "deskripsi": "Lagi manja", "imageId": "kucing10"}
+    {"nama": "BMW M3 GTR NFSMW", "deskripsi": "Unforgotable Legend", "imageId": "BMW M3 GTR"},
+    {"nama": "Ferrari 488 Pista", "deskripsi": "Kuda Italia yang Elegan", "imageId": "Ferrari 488 Pista"},
+    {"nama": "Ferrari F40", "deskripsi": "Legenda Ferrari dan The Unholy Trinity", "imageId": "Ferrari F40"},
+    {"nama": "Ferrari FXX Evolution", "deskripsi": "Dikenal sebagai Ferrari Hiu", "imageId": "Ferrari FXX Evo"},
+    {"nama": "Ferrari Testarossa", "deskripsi": "Pilihan Klasik dari Ferrari", "imageId": "Ferrari Testarossa"},
+    {"nama": "Honda NSX", "deskripsi": "Sang Ferrari Jepang", "imageId": "Honda NSX"},
+    {"nama": "Mazda RX7", "deskripsi": "Penerus Generasi Rotary Engine", "imageId": "Mazda RX7"},
+    {"nama": "Mitsubishi Lancer Evolution IX", "deskripsi": "Generasi ke-9 dari Lancer Evo", "imageId": "Mitsubishi Lancer Ecolution IX"},
+    {"nama": "Mitsubishi Lancer Evolution X", "deskripsi": "Generasi ke-10 dari Lancer Evo, sekaligus penutup", "imageId": "Mitsubishi Lancer Evolution X"},
+    {"nama": "Nissan Silvia S15", "deskripsi": "Street Tuner terbaik dari Nissan", "imageId": "Nissan Silvia S15"},
+    {"nama": "Nissan Skyline GT-R BNR34", "deskripsi": "JDM Legends", "imageId": "Nissan Skyline GT-R BNR34"},
+    {"nama": "Nissan SKyline GT-R R34 NFSU 2", "deskripsi": "Legend NFSU2", "imageId": "Nissan SKyline GT-R R34 NFSU 2"},
+    {"nama": "Porsche 911 GT2 RS", "deskripsi": "Porsche Baru dengan Spek Gahar", "imageId": "Porsche 911 GT2 RS"},
+    {"nama": "Porsche 930 RWB", "deskripsi": "Porsche dengan Bodykit RWB dari Jepang", "imageId": "Porsche 930 RWB"},
+    {"nama": "Volkswagen Beetle Custom", "deskripsi": "Custom Beetle Ala MoonEyes", "imageId": "Volkswagen Beetle"}
 ]
